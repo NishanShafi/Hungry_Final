@@ -1,0 +1,38 @@
+.content{
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    transform: translateY(-50%);
+}
+h1{
+    color: black;
+    margin: 20px 0px 20px;
+    font-size: 75px;
+}
+h3{
+    color: black;
+    font-size: 25px;
+    margin-bottom: 50px;
+}
+h4{
+    color: black;
+    letter-spacing: 2px;
+    font-size: 20px;
+}
+.about-text{
+    position: absolute;
+    width: 550px;
+    transform: translateY(-100%);
+    top: 95%;
+    left: 5%;
+}
+h2{
+    color: black;
+}
+h5{
+    color: black;
+}
+p{
+    color: black
+}
+    
